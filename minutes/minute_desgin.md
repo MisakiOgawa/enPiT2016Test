@@ -10,6 +10,7 @@
 
 ---
 ## 目次
+1. [進捗](#ProgressReport)
 1. [実装予定の機能](#anchar1)
 2. [利用言語・開発環境](#anchar2)
 3. [利用ツール](#anchar3)
@@ -21,7 +22,18 @@
 
 ---
 
-## <div id="anchar1"/>実装予定の機能
+## <div id="ProgressReport"/> 進捗<font color = "red">*</font>
+
+| メンバー | 担当タスク | 進捗 |
+| :-- | :--: | :-- |
+| ○ | issue #[○]() |  |
+| ○ | issue #[○]() |  |
+| ○ | issue #[○]() |  |
+| ○ | issue #[○]() |  |
+| ○ | issue #[○]() |  |
+
+
+## <div id="anchar1"/>実装予定の機能<font color = "red">*</font>
 - Summary.js
 	- 一覧表示
 	- ソート
@@ -40,13 +52,13 @@
 	- ログイン
 	- ログアウト
 
-## <div id="anchar2"/>利用言語・開発環境
+## <div id="anchar2"/>利用言語・開発環境<font color = "red">*</font>
 - 言語
 	- HTML, Javascript, CSSを利用
 - フレームワーク
 	- React.js
 
-## <div id="anchar3"/>利用ツール
+## <div id="anchar3"/>利用ツール<font color = "red">*</font>
 - プロジェクト管理、バージョン管理、タスク管理
 	- GitHub
 
@@ -65,8 +77,8 @@
 ### 担当タスク
 | メンバー | 担当タスク | 予定進捗 |
 | :-- | :--: | :-- |
-| A | issue #4 | 完了 |
-| B | issue #4 | 完了 |
-| C | issue #4 | 完了 |
-| D | issue #4 | 完了 |
-| E | issue #4 | 完了 |
+| A | issue #[4]() | 完了 |
+| B | issue #[4]() | 完了 |
+| C | issue #[4]() | 完了 |
+| D | issue #[4]() | 完了 |
+| E | issue #[4]() | 完了 |
